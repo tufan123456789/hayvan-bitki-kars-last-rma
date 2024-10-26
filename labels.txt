@@ -1,0 +1,2 @@
+0 hayvanlar
+1 bitkiler
